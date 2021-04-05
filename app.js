@@ -40,6 +40,7 @@ data = {
         }
     }
 }
+
 print('Название товара: '+data.displayedName.displayedName.value[0])
 let shops = []
 let stocks = data.stock.stocks['34']
